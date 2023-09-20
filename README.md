@@ -52,3 +52,8 @@ In this section, packages your project requires are stored using the following f
   "package-name": "version",
   "express": "4.14.0"
 }
+
+***
+
+## Manage npm Dependencies By Understanding Semantic Versioning
+Versions of the npm packages in the dependencies section of your package.json file follow what’s called Semantic Versioning (SemVer), an industry standard for software versioning aiming to make it easier to manage dependencies. Libraries, frameworks or other tools published on npm should use SemVer in order to clearly communicate what kind of changes projects can expect if they update.
