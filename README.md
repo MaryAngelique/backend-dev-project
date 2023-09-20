@@ -34,3 +34,11 @@ The keywords field is where you can describe your project using related keywords
 As you can see, this field is structured as an array of double-quoted strings.
 
 ***
+
+
+## Add a Version to Your package.json
+A version is one of the required fields of your package.json file. This field describes the current version of your project. Here's an example:
+
+"version": "1.2.0",
+
+***
