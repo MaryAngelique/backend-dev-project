@@ -81,3 +81,7 @@ Similar to how the tilde we learned about in the last challenge allows npm to in
 Your current version of @freecodecamp/example should be ~1.2.13 which allows npm to install to the latest 1.2.x version. If you were to use the caret (^) as a version prefix instead, npm would be allowed to update to any 1.x.x version.
 
 "package": "^1.3.8"
+
+***
+
+## Remove a Package from Your Dependencies
