@@ -85,3 +85,4 @@ Your current version of @freecodecamp/example should be ~1.2.13 which allows npm
 ***
 
 ## Remove a Package from Your Dependencies
+You have now tested a few ways you can manage dependencies of your project by using the package.json's dependencies section. You have also included external packages by adding them to the file and even told npm what types of versions you want, by using special characters such as the tilde or the caret.
